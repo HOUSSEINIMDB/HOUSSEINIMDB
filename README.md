@@ -3,7 +3,7 @@
 - (you guessed something)
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Javascript for now
-- 📫 Reach me on " danbouzouahousseini@gmail.com "
+- 📫 Reach me on  danbouzouahousseini@gmail.com 
 
 I'm also interested in the agile methodology and Software development LifeCycle 
 and I wish I'll work in a Good company, making good software.
