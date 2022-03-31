@@ -1,6 +1,5 @@
 - 👋 Hi, I’m hussein @HOUSSEINIMDB
-- 👀 I’m interested in Java,Kotlin,Dart,Javascript,Swift and ObjectiveC 
-- (you guessed something)
+- 👀 I’m interested in Java,C++,Python and R 
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Javascript for now
 - 📫 Reach me on  danbouzouahousseini@gmail.com 
