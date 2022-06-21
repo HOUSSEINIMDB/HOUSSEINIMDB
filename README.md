@@ -1,7 +1,7 @@
 - 👋 Hi, I’m hussein @HOUSSEINIMDB
 - 👀 I’m interested in Java,C++,Python and R 
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Javascript for now
+- 💞️ I’m looking to collaborate on python
 - 📫 Reach me on  danbouzouahousseini@gmail.com 
 
 I'm also interested in the agile methodology and Software development LifeCycle 
