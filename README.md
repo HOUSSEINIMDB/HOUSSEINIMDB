@@ -1,8 +1,9 @@
-- 👋 Hi, I’m husseini
-- 👀 I’m interested in Infrastructure and Data Engineering. 
-- 🌱 I’m currently learning Python, Bash, Linux
-- 💞️ I’m looking to collaborate on Python
-- 📫 Reach me on  danbouzouahousseini@gmail.com 
+- 👋 Hi, I’m husseini, Currently seeking for my graduation year internship, for 4+ month
+- Available from half of January 2024
+- 👀 I’m interested in Data Engineering. 
+- 🌱 I’m currently learning Data Engineering principles & tools 
+- 💞️ I’m looking to collaborate on Data Engineering
+- 📫 Reach me on hous.mamane012@gmail.com and danbouzouahousseini@gmail.com 
 
 <!---
 HOUSSEINIMDB/HOUSSEINIMDB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
